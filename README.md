@@ -1,5 +1,5 @@
 
-Hello ,i am Bikash kumar,a Software Engineer with a Strong Background in Web Development .i have extensive hands on exprience in HTML.CSS,JAVASCRIPT, and React.Js and i am passionate expanding my Knowledge in this Dynamic field . i thrive in versatile envirements and i am always eager to learn and adapt to new technology.
+Hello ,i am Bikash kumar,a Software Engineer with a Strong Background in Web Development .i have extensive hands on exprience in HTML.CSS,JAVASCRIPT, and React.Js and i am passionate expanding my Knowledge in this Dynamic field . i thrive in versatile environment and i am always eager to learn and adapt to new technology.
 ----------------------------------------------------------------------------
 - 👋 Hi, I’m @kbikash845
 - 👀 I’m interested in ...
